@@ -8,4 +8,4 @@
 ## Connect with me:
 
 
--<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"><a href="https://www.linkedin.com/in/jordane-lemmer-12290819b/" /></img>
+-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" height="50px"><a href="https://www.linkedin.com/in/jordane-lemmer-12290819b/" /></img>
