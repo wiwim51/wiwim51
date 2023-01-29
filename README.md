@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordane</h1>
 <h3 align="center">A Web Developer</h3>
 
+
 - 🎓 I'm studying at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR/formations/formation-developpeur-web)
 - 💻 I’m currently working on app "Dead Agency", Projet 2 !
 - 📚 I’m currently learning #React #MySQL #Typescript
@@ -8,9 +9,11 @@
 
 ## Connect with me
 
+
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" height="50px"><a href="https://www.linkedin.com/in/jordane-lemmer-12290819b/"></a></img>
 
 ## Languages and Tools
+
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
