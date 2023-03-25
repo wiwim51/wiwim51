@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer</h3>
 
 - 🎓 I'm studying at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR/formations/formation-developpeur-web)
-- 💻 I’m currently working on app "Dead Agency", Projet 2 !
+- 💻 I’m currently working on app e-commerce "Chuko Manga", Projet 3 !
 - 📚 I’m currently learning #React #MySQL #Typescript
 - 📧 How to reach me: <a href="mailto:jordane.lemmer@gmail.com">jordane.lemmer@gmail.com</a>
 
