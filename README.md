@@ -3,7 +3,7 @@
 
 - 🎓 I'm studying at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR/formations/formation-developpeur-web)
 - 💻 I’m currently working on app e-commerce "Chuko Manga", Projet 3 !
-- 📚 I’m currently learning #React #MySQL #Typescript
+- 📚 I’m currently learning #React #NodeJs #MySQL #Typescript and more
 - 📧 How to reach me: <a href="mailto:jordane.lemmer@gmail.com">jordane.lemmer@gmail.com</a>
 
 ## Connect with me
