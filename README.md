@@ -6,9 +6,6 @@
     <a href="mailto:jordane.lemmer@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    </a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/jordane-lemmer-12290819b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
@@ -53,6 +50,4 @@
         </div>
         <br>
         <div align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leagian&theme=dark&layout=compact" /><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=Leagian&theme=dark&show_icons=true&hide=stars,issues" />
         </div>
